@@ -1,0 +1,87 @@
+trial,link,declared_rel_s,held_s,speed_at_declaration,max_speed_while_declared,dist_at_declaration_m,moved_m,withdrawn,category
+T01,T1_A1,-17.0353,6.1393,0.0082,0.2354,10.2757,0.0353,True,standstill at the start
+T01,T1_A1,2.4007,2.0618,0.0003,0.0004,0.0001,0.0001,True,after the camera stop
+T01,T1_A1,6.7612,0.4757,0.0008,0.0008,0.0006,0.0,True,after the camera stop
+T01,T1_A1,9.538,3.5722,0.0008,0.0008,0.0006,0.0006,False,after the camera stop
+T01,T1_A2,-17.0353,6.3788,0.0082,0.411,10.2757,0.1195,True,standstill at the start
+T01,T1_A2,1.2885,11.8217,0.0001,0.0013,0.0001,0.0001,False,after the camera stop
+T01,T2_A1,-17.0353,6.3788,0.0082,0.411,10.2757,0.1195,True,standstill at the start
+T01,T2_A1,1.2094,3.8867,0.0001,0.0004,0.0001,0.0,True,after the camera stop
+T01,T2_A1,6.364,1.032,0.0008,0.0008,0.0006,0.0,True,after the camera stop
+T01,T2_A1,8.9032,4.207,0.0008,0.0008,0.0006,0.0006,False,after the camera stop
+T01,T2_A2,-17.0353,6.3788,0.0082,0.411,10.2757,0.1195,True,standstill at the start
+T01,T2_A2,1.2094,11.9008,0.0001,0.0013,0.0001,0.0001,False,after the camera stop
+T02,T1_A1,2.2262,5.2408,0.0018,0.0018,0.0005,0.0005,False,after the camera stop
+T02,T1_A2,2.2262,5.2408,0.0018,0.0018,0.0005,0.0005,False,after the camera stop
+T02,T2_A1,2.2262,5.2408,0.0018,0.0018,0.0005,0.0005,False,after the camera stop
+T02,T2_A2,2.2262,5.3202,0.0018,0.0018,0.0005,0.0005,False,after the camera stop
+T06,T1_A1,-13.853,1.1936,0.0079,0.0542,10.2111,0.0023,True,standstill at the start
+T06,T1_A1,1.567,8.8098,0.0007,0.0014,0.0007,0.0007,False,after the camera stop
+T06,T1_A2,-13.853,1.1936,0.0079,0.0542,10.2111,0.0023,True,standstill at the start
+T06,T1_A2,-6.6962,0.95,1.003,1.0485,5.269,0.9693,True,declared while moving
+T06,T1_A2,1.2484,9.1285,0.0014,0.0015,0.0008,0.0008,False,after the camera stop
+T06,T2_A1,-13.8525,1.1931,0.008,0.0542,10.2111,0.0023,True,standstill at the start
+T06,T2_A1,-6.6962,1.0297,1.003,1.0485,5.269,1.0418,True,declared while moving
+T06,T2_A1,1.328,9.0488,0.0006,0.0014,0.0008,0.0008,False,after the camera stop
+T06,T2_A2,-13.8525,1.1931,0.008,0.0542,10.2111,0.0023,True,standstill at the start
+T06,T2_A2,1.4081,8.9687,0.0008,0.0014,0.0008,0.0008,False,after the camera stop
+T08,T1_A1,-4.8078,5.0765,0.0002,0.0231,0.0183,0.0145,True,"near the end, before the camera stop"
+T08,T1_A1,1.4579,1.2702,0.0001,0.0006,0.0003,0.0003,False,after the camera stop
+T08,T1_A2,-5.1249,7.8531,0.0003,0.0231,0.0183,0.0183,False,"near the end, before the camera stop"
+T08,T2_A1,-5.1249,7.8531,0.0003,0.0231,0.0183,0.0183,False,"near the end, before the camera stop"
+T08,T2_A2,-5.0456,5.2351,0.0004,0.0231,0.0183,0.0131,True,"near the end, before the camera stop"
+T08,T2_A2,1.2997,1.4285,0.0001,0.0006,0.0003,0.0003,False,after the camera stop
+T10,T1_A1,1.3394,6.9749,0.0003,0.0058,0.0024,0.0024,False,after the camera stop
+T10,T1_A2,1.3394,6.9749,0.0003,0.0058,0.0024,0.0024,False,after the camera stop
+T10,T2_A1,1.1803,7.134,0.0005,0.0058,0.0024,0.0024,False,after the camera stop
+T10,T2_A2,1.2599,7.0544,0.0007,0.0058,0.0024,0.0024,False,after the camera stop
+T12,T1_A1,1.5534,7.1832,0.0007,0.0022,0.0034,0.0034,False,after the camera stop
+T12,T1_A2,1.1547,7.5818,0.0009,0.0022,0.0035,0.0035,False,after the camera stop
+T12,T2_A1,1.1069,7.6611,0.0007,0.0022,0.0034,0.0034,False,after the camera stop
+T12,T2_A2,1.1858,7.5822,0.0007,0.0022,0.0035,0.0035,False,after the camera stop
+T14,T1_A1,3.7728,7.2207,0.0,0.0017,0.0017,0.0017,False,after the camera stop
+T14,T1_A2,1.3148,9.6786,0.0004,0.0017,0.0023,0.0023,False,after the camera stop
+T14,T2_A1,1.156,9.8375,0.0008,0.0017,0.0024,0.0024,False,after the camera stop
+T14,T2_A2,1.3939,9.5996,0.0003,0.0017,0.0023,0.0023,False,after the camera stop
+T16,T1_A1,4.2207,5.2681,0.0002,0.0017,0.0019,0.0019,False,after the camera stop
+T16,T1_A2,1.259,8.2298,0.0001,0.0017,0.0025,0.0025,False,after the camera stop
+T16,T2_A1,1.1796,8.3092,0.0005,0.0017,0.0025,0.0025,False,after the camera stop
+T16,T2_A2,1.3378,8.1511,0.0003,0.0017,0.0025,0.0025,False,after the camera stop
+T18,T1_A1,-5.3987,4.283,0.0005,0.0406,0.0143,0.0076,True,"near the end, before the camera stop"
+T18,T1_A1,1.821,2.1593,0.0001,0.0002,0.0001,0.0001,False,after the camera stop
+T18,T1_A2,-5.4783,4.6795,0.0007,0.0471,0.0143,0.0051,True,"near the end, before the camera stop"
+T18,T1_A2,0.313,3.6674,0.0107,0.0108,0.0066,0.0066,False,after the camera stop
+T18,T2_A1,-5.5257,4.7586,0.001,0.0471,0.0143,0.0043,True,"near the end, before the camera stop"
+T18,T2_A1,0.2649,3.7315,0.0105,0.0108,0.0071,0.0071,False,after the camera stop
+T18,T2_A2,-5.4462,9.4427,0.0003,0.0471,0.0143,0.0143,False,"near the end, before the camera stop"
+T20,T1_A1,1.2826,8.4973,0.0004,0.0027,0.0004,0.0004,False,after the camera stop
+T20,T1_A2,1.1239,8.656,0.001,0.0027,0.0005,0.0005,False,after the camera stop
+T20,T2_A1,1.1239,8.656,0.001,0.0027,0.0005,0.0005,False,after the camera stop
+T20,T2_A2,1.2033,8.6562,0.0004,0.0027,0.0004,0.0004,False,after the camera stop
+T22,T1_A1,5.7623,3.9084,0.0,0.0006,0.0051,0.0,True,after the camera stop
+T22,T1_A2,1.0715,11.3834,0.0004,0.015,0.0048,0.0048,False,after the camera stop
+T22,T2_A1,1.2309,11.2239,0.0005,0.015,0.0048,0.0048,False,after the camera stop
+T22,T2_A2,1.151,11.3039,0.0003,0.015,0.0048,0.0048,False,after the camera stop
+T26,T1_A1,2.2182,2.6998,0.0012,0.0012,0.0003,0.0003,True,after the camera stop
+T26,T1_A1,9.9224,1.0324,0.0001,0.0003,0.0,0.0,False,after the camera stop
+T26,T1_A2,1.1865,9.7683,0.0004,0.0016,0.0008,0.0008,False,after the camera stop
+T26,T2_A1,1.1865,9.7683,0.0004,0.0016,0.0008,0.0008,False,after the camera stop
+T26,T2_A2,1.266,9.6888,0.0003,0.0016,0.0008,0.0008,False,after the camera stop
+T28,T1_A1,1.5128,11.6634,0.0002,0.0057,0.0024,0.0023,True,after the camera stop
+T28,T1_A2,1.1965,12.7718,0.0003,0.0057,0.0024,0.0024,False,after the camera stop
+T28,T2_A1,0.9587,13.0096,0.001,0.0057,0.0024,0.0024,False,after the camera stop
+T28,T2_A2,1.117,12.8513,0.0009,0.0057,0.0024,0.0024,False,after the camera stop
+T30,T1_A1,4.2932,5.2633,0.0002,0.0004,0.0,0.0,True,after the camera stop
+T30,T1_A1,12.0935,3.491,0.0,0.0003,0.0,0.0,True,after the camera stop
+T30,T1_A2,1.1976,14.6253,0.0007,0.0021,0.0009,0.0009,False,after the camera stop
+T30,T2_A1,1.1181,14.7049,0.0014,0.0021,0.0009,0.0009,False,after the camera stop
+T30,T2_A2,1.277,14.6254,0.0009,0.0021,0.001,0.001,False,after the camera stop
+T33,T1_A1,2.2328,10.7962,0.0001,0.0007,0.0002,0.0002,False,after the camera stop
+T33,T1_A2,1.357,11.672,0.0046,0.005,0.0024,0.0024,False,after the camera stop
+T33,T2_A1,1.1185,11.9913,0.0014,0.005,0.0026,0.0026,False,after the camera stop
+T33,T2_A2,1.278,11.8317,0.003,0.005,0.0025,0.0025,False,after the camera stop
+T50,T1_A1,3.3023,4.137,0.0001,0.0004,0.0002,0.0,True,after the camera stop
+T50,T1_A1,9.4113,3.5773,0.0,0.0007,0.0002,0.0001,True,after the camera stop
+T50,T1_A2,1.4785,12.3545,0.0009,0.0023,0.0007,0.0007,False,after the camera stop
+T50,T2_A1,1.0411,12.7919,0.0008,0.0023,0.0008,0.0008,False,after the camera stop
+T50,T2_A2,1.2123,12.6207,0.0005,0.0023,0.0008,0.0008,False,after the camera stop

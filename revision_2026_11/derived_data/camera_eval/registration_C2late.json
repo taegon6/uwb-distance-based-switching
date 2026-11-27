@@ -1,0 +1,24 @@
+{
+ "session": "C2late",
+ "runs": 2,
+ "plane_rms_m": 0.0006116477515741275,
+ "plane_points": 1102,
+ "camera_world_phys": [
+  0.012033245015241542,
+  -3.01871825141182,
+  0.5559986226405949
+ ],
+ "camera_height_m": 0.5559986226405949,
+ "mount_delta_deg": 1.0357411221540274,
+ "mount_delta_own_estimate_deg": 28.99323682489131,
+ "mount_delta_spread_deg": 0.0,
+ "alpha_deg": 0.6807086211477588,
+ "alpha_spread_deg": 0.16616513260896892,
+ "alpha_per_run": {
+  "T37": 0.85,
+  "T50": 0.51
+ },
+ "stop_residual_median_cm": 1.3228920231824144,
+ "stop_loo_median_cm": 2.645784046364809,
+ "stop_loo_max_cm": 2.645784046364829
+}

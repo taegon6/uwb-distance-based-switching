@@ -1,0 +1,3 @@
+quantity,stops,median_offset_all_stops_cm,loss_at_median_offset_points,efficiency_at_median_offset_pct,stops_within_20cm,largest_offset_within_20cm_cm,loss_at_largest_offset_within_20cm_points,median_efficiency_of_stops_within_20cm_pct,stops_beyond_20cm,largest_offset_cm
+physical lateral offset of the RX reference point,39,6.501,0.3901,92.5799,33,18.273,2.0891,92.6551,6,37.066
+lateral error of the RX estimate,39,8.41,0.5046,92.4654,37,19.802,2.3644,92.5061,2,42.792

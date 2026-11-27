@@ -1,0 +1,17 @@
+policy,hysteresis,K,mean_commits,max_commits,pct_runs_with_extra_switch
+FIXED_DS,False,1,99.27,330,100.0
+FIXED_DS,False,3,9.45,40,36.36
+FIXED_DS,False,5,2.82,9,36.36
+FIXED_DS,False,10,1.09,2,18.18
+FIXED_DS,True,1,49.09,226,72.73
+FIXED_DS,True,3,4.18,16,36.36
+FIXED_DS,True,5,1.64,4,27.27
+FIXED_DS,True,10,0.91,1,0.0
+FIXED_SS,False,1,2.82,9,45.45
+FIXED_SS,False,3,1.0,1,0.0
+FIXED_SS,False,5,1.0,1,0.0
+FIXED_SS,False,10,1.0,1,0.0
+FIXED_SS,True,1,1.0,1,0.0
+FIXED_SS,True,3,1.0,1,0.0
+FIXED_SS,True,5,1.0,1,0.0
+FIXED_SS,True,10,1.0,1,0.0
