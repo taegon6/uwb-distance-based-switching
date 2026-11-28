@@ -1,0 +1,46 @@
+block,mode,state,yaw,lat,n
+1,PHASE,standing at the start (10 m),-2.818,33.666,171
+1,PHASE,moving faster than 0.8 m/s,-1.172,6.424,195
+1,PHASE,standing at the stop,1.872,-1.288,159
+1,DS,standing at the start (10 m),-1.912,31.25,76
+1,DS,moving faster than 0.8 m/s,-0.1,3.572,377
+1,DS,standing at the stop,0.517,-2.862,463
+1,SS,standing at the start (10 m),-1.508,24.973,256
+1,SS,moving faster than 0.8 m/s,1.121,1.205,705
+1,SS,standing at the stop,-3.0,-3.154,1029
+2,SS,standing at the start (10 m),-1.36,26.741,237
+2,SS,moving faster than 0.8 m/s,0.621,2.86,686
+2,SS,standing at the stop,-3.396,-4.444,1105
+2,PHASE,standing at the start (10 m),-3.943,35.12,85
+2,PHASE,moving faster than 0.8 m/s,-2.135,8.96,206
+2,PHASE,standing at the stop,-2.617,-3.57,267
+2,DS,standing at the start (10 m),-2.164,35.052,72
+2,DS,moving faster than 0.8 m/s,-1.235,7.912,363
+2,DS,standing at the stop,-2.912,-5.126,391
+3,DS,standing at the start (10 m),-2.268,25.919,131
+3,DS,moving faster than 0.8 m/s,-0.607,2.607,329
+3,DS,standing at the stop,-0.311,-3.795,65
+3,SS,standing at the start (10 m),-1.92,21.278,209
+3,SS,moving faster than 0.8 m/s,0.995,-3.095,741
+3,SS,standing at the stop,0.834,-2.274,967
+3,PHASE,standing at the start (10 m),-1.983,31.179,27
+3,PHASE,moving faster than 0.8 m/s,-2.365,9.662,188
+3,PHASE,standing at the stop,-1.705,-3.165,223
+4,DS,standing at the start (10 m),-3.688,31.561,79
+4,DS,moving faster than 0.8 m/s,-1.551,7.904,255
+4,DS,standing at the stop,-4.61,-5.506,495
+4,SS,standing at the start (10 m),1.517,19.05,115
+4,SS,moving faster than 0.8 m/s,-0.478,4.621,491
+4,SS,standing at the stop,1.819,0.102,922
+4,PHASE,standing at the start (10 m),-1.665,30.691,37
+4,PHASE,moving faster than 0.8 m/s,-2.447,9.761,147
+4,PHASE,standing at the stop,-7.037,-3.663,243
+5,SS,standing at the start (10 m),1.136,15.765,161
+5,SS,moving faster than 0.8 m/s,-0.039,3.128,425
+5,SS,standing at the stop,-1.235,-7.23,1167
+5,PHASE,standing at the start (10 m),-1.68,29.347,35
+5,PHASE,moving faster than 0.8 m/s,-2.244,14.292,55
+5,PHASE,standing at the stop,-2.917,-4.073,263
+5,DS,standing at the start (10 m),1.575,16.626,87
+5,DS,moving faster than 0.8 m/s,-0.299,3.08,328
+5,DS,standing at the stop,-3.603,-5.056,511

@@ -1,0 +1,95 @@
+{
+  "schema": "uwb_2a2t_vehicle_geometry_v1",
+  "coordinate_frame": "wpt_world_tx_coil_origin",
+  "dimension": "3D_ranges_with_2D_motion",
+  "tx_coil_world_m": [
+    0.0,
+    0.0,
+    0.81
+  ],
+  "anchors_m": {
+    "A1": [
+      -1.0,
+      -3.0,
+      0.94
+    ],
+    "A2": [
+      1.0,
+      -3.0,
+      0.94
+    ]
+  },
+  "anchor_baseline_m": 2.0,
+  "tag_center_reference": "vehicle_tag_midpoint",
+  "tag_offsets_from_center_m": {
+    "T1": [
+      -0.4,
+      0.0,
+      0.0
+    ],
+    "T2": [
+      0.4,
+      0.0,
+      0.0
+    ]
+  },
+  "tag_heights_m": {
+    "T1": 0.88,
+    "T2": 0.88
+  },
+  "rx_coil_from_tag_midpoint_body_m": [
+    0.0,
+    2.2,
+    0.0
+  ],
+  "vehicle_forward_body_axis": [
+    0.0,
+    -1.0,
+    0.0
+  ],
+  "tag_spacing_m": 0.8,
+  "yaw_convention": {
+    "zero": "vehicle forward points toward world -Y",
+    "positive": "counter_clockwise",
+    "definition": "world tag baseline angle minus configured body tag baseline angle"
+  },
+  "branch_rule": "tag midpoint is on the greater-world-Y side of the anchor baseline",
+  "common_height_assumption": false,
+  "notes": "Left-to-right physical order is A1/A2 facing T1/T2. Anchors are 0.30 m above the 0.81 m tags. Motion is solved in XY; each UWB range is projected to horizontal using anchor_z - tag_z. TX/RX vehicle coils are both at 0.81 m. Historical run data remain unchanged. | 24 Nov field values entered in trial_gui (anchors, tag height).",
+  "link_offsets_m": {
+    "SS": {
+      "T1_A1": 0.174,
+      "T1_A2": 0.125,
+      "T2_A1": 0.12,
+      "T2_A2": 0.153
+    },
+    "DS": {
+      "T1_A1": 0.17,
+      "T1_A2": 0.12,
+      "T2_A1": 0.118,
+      "T2_A2": 0.155
+    },
+    "PHASE": {
+      "T1_A1": 0.15518,
+      "T1_A2": 0.12152,
+      "T2_A1": 0.11657,
+      "T2_A2": 0.15215
+    }
+  },
+  "link_offsets_source": {
+    "method": "known tape slant distance, laboratory, boards static, 30 s per mode",
+    "file": "link_offsets_lab_20261124.json",
+    "runs": [
+      "150611_REV_EXTRA_LAB1_SS_r1_FIXED_SS",
+      "150656_REV_EXTRA_LAB1_DS_FIXED_DS",
+      "150739_REV_EXTRA_LAB1_HP_FIXED_PHASE"
+    ],
+    "note": "laboratory calibration"
+  },
+  "field_measured": {
+    "date": "2026-11-24",
+    "saved_at": "2026-11-24 20:37:22",
+    "source": "vehicle_geometry_run70.json",
+    "board_note": "anchors 0.94 both, tags 0.88 (measured); anchor xy = floor marks; ArUco board centre z 0.68 m, horizontally at tag midpoint (no fore/aft or lateral offset, user estimate); rear plumb L pending"
+  }
+}

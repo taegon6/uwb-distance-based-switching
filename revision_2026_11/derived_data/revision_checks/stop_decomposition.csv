@@ -1,0 +1,10 @@
+stop_mode,offset,single_median,single_p95,agg3s
+DS,field,3.8,6.33,3.38
+DS,lab,14.35,17.92,14.2
+DS,none,8.98,11.36,8.81
+PHASE,field,3.68,5.67,3.3
+PHASE,lab,14.9,18.82,14.78
+PHASE,none,8.34,10.65,8.26
+SS,field,3.25,6.33,2.7
+SS,lab,15.03,19.78,14.94
+SS,none,9.17,12.15,9.01

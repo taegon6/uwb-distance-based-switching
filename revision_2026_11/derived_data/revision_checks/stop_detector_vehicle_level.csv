@@ -1,0 +1,17 @@
+trial,vehicle_declarations,first_all_four_rel_s,dist_at_first_mm,all_four_at_end,links_declared_at_end,time_all_four_before_stop_s,max_links_while_far
+T01,3,2.341,0.056,True,4,0.0,0
+T02,1,2.238,0.5,True,4,0.0,0
+T06,1,1.568,0.66,True,4,0.0,2
+T08,2,-4.807,18.299,True,4,4.82,0
+T10,1,1.344,2.438,True,4,0.0,0
+T12,1,1.563,3.375,True,4,0.0,0
+T14,1,3.778,1.661,True,4,0.0,0
+T16,1,4.311,1.895,True,4,0.0,0
+T18,2,-5.379,14.263,True,4,4.28,0
+T20,1,1.284,0.395,True,4,0.0,0
+T22,1,5.771,5.139,False,3,0.0,0
+T26,2,2.238,0.292,True,4,0.0,0
+T28,1,1.526,2.387,False,3,0.0,0
+T30,2,4.31,0.04,False,3,0.0,0
+T33,1,2.233,0.198,True,4,0.0,0
+T50,2,3.397,0.219,False,3,0.0,0

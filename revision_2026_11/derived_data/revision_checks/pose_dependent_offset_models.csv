@@ -1,0 +1,11 @@
+split,model,tag_median,tag_le10,yaw_median,rx_median,rx_le10,rx_max,rx_minus_constant,lower
+leave one stop out,constant,2.934,38,2.658,9.665,20,40.105,+0.00 +- 0.00,0
+leave one stop out,heading,4.15,37,3.009,9.496,22,39.48,-0.34 +- 0.43,25
+leave one stop out,lateral,3.13,39,2.092,8.475,27,37.023,-0.73 +- 1.35,26
+leave one stop out,lateral + heading,3.291,38,2.138,7.145,27,33.26,-2.06 +- 1.07,29
+leave one stop out,lateral + longitudinal + heading,3.159,38,1.668,5.89,31,34.11,-2.49 +- 1.16,30
+two-fold by block (train on the other half),constant,3.175,38,2.404,10.203,19,38.564,+0.00 +- 0.00,0
+two-fold by block (train on the other half),heading,6.565,25,6.274,21.066,10,395.812,+69.65 +- 37.36,15
+two-fold by block (train on the other half),lateral,3.034,39,3.037,9.757,21,48.804,+1.03 +- 3.18,23
+two-fold by block (train on the other half),lateral + heading,4.043,35,3.092,10.506,18,452.11,+31.29 +- 33.13,23
+two-fold by block (train on the other half),lateral + longitudinal + heading,3.817,38,2.402,7.884,26,284.173,+4.48 +- 13.33,25

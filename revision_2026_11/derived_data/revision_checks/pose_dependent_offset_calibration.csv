@@ -1,0 +1,157 @@
+trial,path,model,tag_cm,yaw_deg,rx_cm,split
+T01,S,constant,0.676,3.45,12.667,"leave one stop out, all 39 stops"
+T01,S,pose-dependent,1.867,2.428,7.551,"leave one stop out, all 39 stops"
+T03,S,constant,2.411,2.21,9.244,"leave one stop out, all 39 stops"
+T03,S,pose-dependent,3.133,1.724,6.667,"leave one stop out, all 39 stops"
+T04,S,constant,1.611,2.272,10.329,"leave one stop out, all 39 stops"
+T04,S,pose-dependent,4.45,0.732,4.08,"leave one stop out, all 39 stops"
+T02,S,constant,2.249,3.914,12.826,"leave one stop out, all 39 stops"
+T02,S,pose-dependent,3.159,3.603,11.383,"leave one stop out, all 39 stops"
+T05,S,constant,1.661,3.05,10.47,"leave one stop out, all 39 stops"
+T05,S,pose-dependent,1.158,2.173,7.312,"leave one stop out, all 39 stops"
+T06,S,constant,3.091,1.082,3.604,"leave one stop out, all 39 stops"
+T06,S,pose-dependent,2.061,0.066,2.109,"leave one stop out, all 39 stops"
+T07,S,constant,1.577,1.531,5.687,"leave one stop out, all 39 stops"
+T07,S,pose-dependent,1.261,0.609,3.597,"leave one stop out, all 39 stops"
+T08,S,constant,2.978,4.362,14.316,"leave one stop out, all 39 stops"
+T08,S,pose-dependent,1.079,2.819,9.901,"leave one stop out, all 39 stops"
+T09,S,constant,2.778,1.832,6.02,"leave one stop out, all 39 stops"
+T09,S,pose-dependent,8.823,1.044,7.122,"leave one stop out, all 39 stops"
+T10,S,constant,2.275,0.301,2.831,"leave one stop out, all 39 stops"
+T10,S,pose-dependent,2.759,0.731,1.269,"leave one stop out, all 39 stops"
+T11,S,constant,1.993,4.031,14.163,"leave one stop out, all 39 stops"
+T11,S,pose-dependent,2.354,3.152,9.865,"leave one stop out, all 39 stops"
+T12,S,constant,6.542,0.31,6.717,"leave one stop out, all 39 stops"
+T12,S,pose-dependent,5.104,1.444,5.979,"leave one stop out, all 39 stops"
+T13,S,constant,2.934,3.943,12.604,"leave one stop out, all 39 stops"
+T13,S,pose-dependent,3.076,2.26,7.172,"leave one stop out, all 39 stops"
+T14,S,constant,4.411,1.784,3.404,"leave one stop out, all 39 stops"
+T14,S,pose-dependent,3.924,0.565,5.614,"leave one stop out, all 39 stops"
+T15,S,constant,4.216,2.901,7.52,"leave one stop out, all 39 stops"
+T15,S,pose-dependent,5.822,3.578,8.527,"leave one stop out, all 39 stops"
+T16,S,constant,5.28,4.684,13.821,"leave one stop out, all 39 stops"
+T16,S,pose-dependent,5.399,4.008,10.323,"leave one stop out, all 39 stops"
+T17,S,constant,7.527,2.322,3.679,"leave one stop out, all 39 stops"
+T17,S,pose-dependent,7.042,0.627,5.115,"leave one stop out, all 39 stops"
+T18,S,constant,1.086,2.017,6.689,"leave one stop out, all 39 stops"
+T18,S,pose-dependent,0.102,1.078,4.035,"leave one stop out, all 39 stops"
+T19,S,constant,0.998,2.658,9.665,"leave one stop out, all 39 stops"
+T19,S,pose-dependent,0.803,1.456,5.722,"leave one stop out, all 39 stops"
+T20,S,constant,6.771,3.22,9.406,"leave one stop out, all 39 stops"
+T20,S,pose-dependent,6.414,2.604,5.793,"leave one stop out, all 39 stops"
+T21,C1,constant,3.376,4.095,12.576,"leave one stop out, all 39 stops"
+T21,C1,pose-dependent,5.864,3.193,6.43,"leave one stop out, all 39 stops"
+T22,C1,constant,2.002,3.687,15.722,"leave one stop out, all 39 stops"
+T22,C1,pose-dependent,2.326,4.076,16.419,"leave one stop out, all 39 stops"
+T23,C1,constant,2.509,1.331,5.112,"leave one stop out, all 39 stops"
+T23,C1,pose-dependent,0.618,0.848,3.733,"leave one stop out, all 39 stops"
+T24,C1,constant,5.12,3.489,12.333,"leave one stop out, all 39 stops"
+T24,C1,pose-dependent,4.248,2.583,8.253,"leave one stop out, all 39 stops"
+T25,C1,constant,5.121,0.231,5.966,"leave one stop out, all 39 stops"
+T25,C1,pose-dependent,5.445,0.795,2.579,"leave one stop out, all 39 stops"
+T26,C1,constant,3.623,1.058,5.455,"leave one stop out, all 39 stops"
+T26,C1,pose-dependent,4.261,1.003,5.89,"leave one stop out, all 39 stops"
+T27,C1,constant,3.05,2.731,7.914,"leave one stop out, all 39 stops"
+T27,C1,pose-dependent,3.022,1.668,3.42,"leave one stop out, all 39 stops"
+T28,C1,constant,2.024,3.048,11.263,"leave one stop out, all 39 stops"
+T28,C1,pose-dependent,0.663,1.346,4.893,"leave one stop out, all 39 stops"
+T29,C1,constant,2.646,4.819,16.935,"leave one stop out, all 39 stops"
+T29,C1,pose-dependent,2.695,3.486,11.565,"leave one stop out, all 39 stops"
+T30,C1,constant,0.731,1.858,6.592,"leave one stop out, all 39 stops"
+T30,C1,pose-dependent,2.08,1.832,5.206,"leave one stop out, all 39 stops"
+T31,C1,constant,2.143,3.335,14.169,"leave one stop out, all 39 stops"
+T31,C1,pose-dependent,1.898,1.08,5.789,"leave one stop out, all 39 stops"
+T32,C1,constant,7.4,10.604,40.105,"leave one stop out, all 39 stops"
+T32,C1,pose-dependent,4.512,9.206,32.926,"leave one stop out, all 39 stops"
+T33,C1,constant,3.725,0.393,4.316,"leave one stop out, all 39 stops"
+T33,C1,pose-dependent,3.181,1.243,3.826,"leave one stop out, all 39 stops"
+T34,C1,constant,2.376,0.822,5.151,"leave one stop out, all 39 stops"
+T34,C1,pose-dependent,1.217,1.115,4.653,"leave one stop out, all 39 stops"
+T35,C1,constant,7.911,9.224,27.564,"leave one stop out, all 39 stops"
+T35,C1,pose-dependent,11.62,11.911,34.11,"leave one stop out, all 39 stops"
+T36,C2,constant,2.345,5.987,21.398,"leave one stop out, all 39 stops"
+T36,C2,pose-dependent,6.98,6.632,21.52,"leave one stop out, all 39 stops"
+T37,C2,constant,3.532,1.864,10.687,"leave one stop out, all 39 stops"
+T37,C2,pose-dependent,3.713,0.371,2.467,"leave one stop out, all 39 stops"
+T38,C2,constant,13.63,0.369,13.647,"leave one stop out, all 39 stops"
+T38,C2,pose-dependent,9.352,7.465,20.704,"leave one stop out, all 39 stops"
+T50,C2,constant,4.635,1.277,9.409,"leave one stop out, all 39 stops"
+T50,C2,pose-dependent,4.782,1.565,1.236,"leave one stop out, all 39 stops"
+T01,S,constant,1.387,4.738,16.957,trained on straight stops only
+T01,S,pose-dependent,25.111,47.591,154.616,trained on straight stops only
+T03,S,constant,2.174,3.339,12.94,trained on straight stops only
+T03,S,pose-dependent,24.524,45.957,153.056,trained on straight stops only
+T04,S,constant,0.898,3.526,14.348,trained on straight stops only
+T04,S,pose-dependent,3.321,7.075,27.032,trained on straight stops only
+T02,S,constant,1.543,2.833,9.374,trained on straight stops only
+T02,S,pose-dependent,14.967,18.198,58.437,trained on straight stops only
+T05,S,constant,1.277,1.832,6.697,trained on straight stops only
+T05,S,pose-dependent,11.218,16.796,54.753,trained on straight stops only
+T06,S,constant,2.725,0.235,3.157,trained on straight stops only
+T06,S,pose-dependent,5.801,8.432,30.505,trained on straight stops only
+T07,S,constant,1.471,0.052,1.542,trained on straight stops only
+T07,S,pose-dependent,1.76,6.015,21.633,trained on straight stops only
+T08,S,constant,2.377,3.138,10.338,trained on straight stops only
+T08,S,pose-dependent,26.74,28.889,93.157,trained on straight stops only
+T09,S,constant,3.392,3.473,11.442,trained on straight stops only
+T09,S,pose-dependent,21.404,40.844,132.154,trained on straight stops only
+T10,S,constant,2.278,0.798,2.691,trained on straight stops only
+T10,S,pose-dependent,33.908,54.554,168.656,trained on straight stops only
+T11,S,constant,2.666,5.29,18.309,trained on straight stops only
+T11,S,pose-dependent,63.061,77.861,213.903,trained on straight stops only
+T12,S,constant,6.337,1.481,8.462,trained on straight stops only
+T12,S,pose-dependent,15.018,37.533,135.448,trained on straight stops only
+T13,S,constant,2.308,2.766,8.985,trained on straight stops only
+T13,S,pose-dependent,27.529,29.909,94.887,trained on straight stops only
+T14,S,constant,3.737,0.663,2.0,trained on straight stops only
+T14,S,pose-dependent,1.329,2.647,10.604,trained on straight stops only
+T15,S,constant,4.711,4.288,12.1,trained on straight stops only
+T15,S,pose-dependent,10.175,21.896,92.95,trained on straight stops only
+T16,S,constant,4.737,3.717,10.958,trained on straight stops only
+T16,S,pose-dependent,36.187,35.779,104.266,trained on straight stops only
+T17,S,constant,6.855,1.242,3.391,trained on straight stops only
+T17,S,pose-dependent,4.781,2.028,12.072,trained on straight stops only
+T18,S,constant,0.316,0.83,2.895,trained on straight stops only
+T18,S,pose-dependent,8.16,15.168,51.688,trained on straight stops only
+T19,S,constant,1.047,1.547,6.326,trained on straight stops only
+T19,S,pose-dependent,8.169,14.16,48.409,trained on straight stops only
+T20,S,constant,6.345,2.174,7.11,trained on straight stops only
+T20,S,pose-dependent,14.91,19.589,63.341,trained on straight stops only
+T21,C1,constant,2.795,2.885,8.783,trained on straight stops only
+T21,C1,pose-dependent,22.004,27.362,84.615,trained on straight stops only
+T22,C1,constant,1.871,4.961,19.948,trained on straight stops only
+T22,C1,pose-dependent,11.086,12.741,40.118,trained on straight stops only
+T23,C1,constant,2.086,0.08,2.123,trained on straight stops only
+T23,C1,pose-dependent,38.043,17.752,44.865,trained on straight stops only
+T24,C1,constant,4.874,2.511,9.629,trained on straight stops only
+T24,C1,pose-dependent,10.522,13.876,47.786,trained on straight stops only
+T25,C1,constant,5.628,0.727,3.12,trained on straight stops only
+T25,C1,pose-dependent,5.727,8.795,35.905,trained on straight stops only
+T26,C1,constant,3.306,0.08,3.263,trained on straight stops only
+T26,C1,pose-dependent,5.936,15.103,51.992,trained on straight stops only
+T27,C1,constant,3.602,3.893,11.806,trained on straight stops only
+T27,C1,pose-dependent,29.678,53.694,180.575,trained on straight stops only
+T28,C1,constant,2.558,4.359,15.62,trained on straight stops only
+T28,C1,pose-dependent,28.358,56.196,202.171,trained on straight stops only
+T29,C1,constant,2.034,3.443,12.449,trained on straight stops only
+T29,C1,pose-dependent,30.777,33.058,99.255,trained on straight stops only
+T30,C1,constant,0.845,0.593,2.479,trained on straight stops only
+T30,C1,pose-dependent,37.126,24.194,63.251,trained on straight stops only
+T31,C1,constant,2.195,4.422,17.702,trained on straight stops only
+T31,C1,pose-dependent,25.837,51.188,185.558,trained on straight stops only
+T32,C1,constant,7.635,11.594,43.043,trained on straight stops only
+T32,C1,pose-dependent,27.628,46.71,150.772,trained on straight stops only
+T33,C1,constant,3.849,0.744,3.79,trained on straight stops only
+T33,C1,pose-dependent,12.919,22.658,75.573,trained on straight stops only
+T34,C1,constant,2.859,0.011,2.893,trained on straight stops only
+T34,C1,pose-dependent,20.835,28.206,90.156,trained on straight stops only
+T35,C1,constant,8.459,10.167,30.638,trained on straight stops only
+T35,C1,pose-dependent,39.698,50.211,161.072,trained on straight stops only
+T36,C2,constant,1.677,5.048,18.229,trained on straight stops only
+T36,C2,pose-dependent,15.695,23.567,74.884,trained on straight stops only
+T37,C2,constant,3.988,0.983,7.755,trained on straight stops only
+T37,C2,pose-dependent,36.886,18.152,49.356,trained on straight stops only
+T38,C2,constant,13.779,0.126,13.782,trained on straight stops only
+T38,C2,pose-dependent,26.969,19.296,53.658,trained on straight stops only
+T50,C2,constant,4.992,0.34,6.264,trained on straight stops only
+T50,C2,pose-dependent,37.549,17.148,45.161,trained on straight stops only
